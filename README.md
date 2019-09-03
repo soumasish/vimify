@@ -1,15 +1,18 @@
 # Vim Guide
+## Moving around
 
-| # | Category | Command |
-|---|:---------|:--------|
-| 1 | Move| |
-| | Next word| w |
-| | End of next word| e|
-| | Beginning of txt|gg|
-| | Last line| G |
-| | End of text| $ |
-| | Next sentence| ) |
-| | Previous sentence| ( |
-| 2 | Search | |
-| | Forward | /|
-| | Backward | ?|
+|#|Action|Key|
+|-|:-----|:--|
+|1|Next word|w|
+|2|End of next word|e|
+|3|Previous word|b|
+|4|End of the previous word|ge|
+|5|Next sentence|)|
+|6|Previous sentence|(|
+|7|Next paragraph|}|
+
+## Search
+|#|Action|Key|
+|-|:-----|:--|
+|1|Foward|/|
+|2|Backward|?|
