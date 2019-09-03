@@ -1,6 +1,6 @@
 # Quickest Guide to Getting Strated with Vim
 
-Vim in essence has two modes - `INSERT` and `NORMAL'. You enter text in `INSERT` mode, everything else you do in `NORMAL` mode. When you open vim you land in the `NORMAL` mode; to get to `INSERT` mode type `i`, and vim is ready to insert right where you are, or `o` and vim will create a new line and put the cursor at the beginning of the new line for insertion. To escape out of insert mode type `esc` or `Ctrl + C`
+Vim in essence has two modes - `INSERT` and `NORMAL`. You enter text in `INSERT` mode, everything else you do in `NORMAL` mode. When you open vim you land in the `NORMAL` mode; to get to `INSERT` mode type `i`, and vim is ready to insert right where you are, or `o` and vim will create a new line and put the cursor at the beginning of the new line for insertion. To escape out of insert mode type `esc` or `Ctrl + C`
 ### Convetions
 - If a key includes a `+` it means the two have to typed together, like `CTRL + F`
 - If it doesn't then they have to be typed in sequence, like `dd`.
